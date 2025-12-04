@@ -1,2 +1,0 @@
-# Assets
-My Profile Image
